@@ -1,0 +1,16 @@
+Vamos a crear un generador de proyectos con plantillas.
+
+Cuando ejecute el programa, debo poder pasarle el nombre
+de la plantilla a usar.
+
+Necesitamos dos plantillas.
+
+- Hola mundo en Express
+- p5js
+
+Ejemplo de uso
+
+```bash
+template_creator p5 # esto crea una carpeta llamada p5 con los archivos necesarios
+
+```
